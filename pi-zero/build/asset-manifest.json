@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//raspberrypi.local/static/css/main.d35683f7.chunk.css",
+    "main.js": "//raspberrypi.local/static/js/main.3c5cb0f3.chunk.js",
+    "main.js.map": "//raspberrypi.local/static/js/main.3c5cb0f3.chunk.js.map",
+    "runtime-main.js": "//raspberrypi.local/static/js/runtime-main.8fd1a644.js",
+    "runtime-main.js.map": "//raspberrypi.local/static/js/runtime-main.8fd1a644.js.map",
+    "static/js/2.0aeddd35.chunk.js": "//raspberrypi.local/static/js/2.0aeddd35.chunk.js",
+    "static/js/2.0aeddd35.chunk.js.map": "//raspberrypi.local/static/js/2.0aeddd35.chunk.js.map",
+    "static/js/3.fe44ca8f.chunk.js": "//raspberrypi.local/static/js/3.fe44ca8f.chunk.js",
+    "static/js/3.fe44ca8f.chunk.js.map": "//raspberrypi.local/static/js/3.fe44ca8f.chunk.js.map",
+    "index.html": "//raspberrypi.local/index.html",
+    "static/css/main.d35683f7.chunk.css.map": "//raspberrypi.local/static/css/main.d35683f7.chunk.css.map",
+    "static/js/2.0aeddd35.chunk.js.LICENSE.txt": "//raspberrypi.local/static/js/2.0aeddd35.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fd1a644.js",
+    "static/js/2.0aeddd35.chunk.js",
+    "static/css/main.d35683f7.chunk.css",
+    "static/js/main.3c5cb0f3.chunk.js"
+  ]
+}
